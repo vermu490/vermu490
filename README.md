@@ -20,25 +20,25 @@ I've worked on a variety of projects in different domains, which you can explore
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 50px;">
-  <!-- GSSoC Badges Section -->
-  <div>
-    <h3>🌟 GSSoC'24 Badges 🪶</h3>
-    <a href="https://gssoc.girlscript.tech/leaderboard">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Badge" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="GSSoC Badge" />
-    </a>
-  </div>
-  
-  <!-- Vertical Divider -->
-  <div style="border-left: 2px solid gray; height: 150px;"></div>
-  
-  <!-- GitHub Achievements Section -->
-  <div>
-    <h3>🦈 GitHub Achievements</h3>
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120px" height="120px" alt="Pull Shark Badge" />
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <!-- GSSoC Badges Section -->
+    <td align="center">
+      <h3>🌟 GSSoC'24 Badges 🪶</h3>
+      <a href="https://gssoc.girlscript.tech/leaderboard">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Badge" />
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="GSSoC Badge" />
+      </a>
+    </td>
+    <!-- Vertical Divider -->
+    <td align="center" style="border-left: 2px solid gray; height: 100px;"></td>
+    <!-- GitHub Achievements Section -->
+    <td align="center">
+      <h3>🦈 GitHub Achievements</h3>
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120px" height="120px" alt="Pull Shark Badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
