@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 Hello! I'm **Shreya Verma**, currently pursuing a **B.Tech in CSE with a specialization in AI and Data Science** from **MIT-WPU, Pune**.
 
