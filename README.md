@@ -20,7 +20,7 @@ I've worked on a variety of projects in different domains, which you can explore
 
 ---
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 50px;">
   <!-- GSSoC Badges Section -->
   <div>
     <h3>🌟 GSSoC'24 Badges 🪶</h3>
