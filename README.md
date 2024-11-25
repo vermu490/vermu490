@@ -15,7 +15,7 @@ I have strong technical expertise in:
 I've worked on a variety of projects in different domains, which you can explore on my GitHub: [GitHub Profile](https://github.com/vermu490). I actively participate in hackathons and workshops to stay ahead in technology.
 
 ### 📬 Let's Connect  
-- **LinkedIn**: [Your LinkedIn Profile Link]  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/shreya-verma-298b60223/)
 - **Email**: verma.shreya.094@gmail.com  
 
 ---
